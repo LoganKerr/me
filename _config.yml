@@ -9,25 +9,25 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: BitHub
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_description: BitHub is a Hofstra University sponsored webapp developed in Google App Script. BitHub allows students to create and join development projects. Outside sources can also create projects for Hofstra students to help develop often times with payment rewarded.
+#project_one_url: https://github.com/jameshamann/jekyll-material-theme
 project_one_icon: location_on
 
 project_two: TeamLink
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_description: WIP
+#project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: Epitaphis
+project_three_description: WIP
+#project_three_url: https://github.com/jameshamann/jekyll-material-theme
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: CSC-Docs
+project_four_description: WIP
+#project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
@@ -37,116 +37,116 @@ portfolio_type: cards
 
 skills:
   - name: amazonwebservices
-  - name: android
-  - name: angularjs
+#  - name: android
+#  - name: angularjs
   - name: apache
-  - name: appcelerator
-  - name: apple
-  - name: atom
-  - name: babel
-  - name: backbonejs
+#  - name: appcelerator
+#  - name: apple
+#  - name: atom
+#  - name: babel
+#  - name: backbonejs
   - name: bitbucket
-  - name: bootstrap
-  - name: bower
+#  - name: bootstrap
+#  - name: bower
   - name: c
-  - name: chrome
-  - name: codeigniter
-  - name: coffescript
+#  - name: chrome
+#  - name: codeigniter
+#  - name: coffescript
   - name: confluence
   - name: cplusplus
-  - name: csharp
-  - name: css3
-  - name: cucumber
-  - name: d3js
+#  - name: csharp
+#  - name: css3
+#  - name: cucumber
+#  - name: d3js
   - name: debian
-  - name: devicon
-  - name: django
-  - name: docker
-  - name: doctrine
-  - name: dot-net
-  - name: drupal
-  - name: erlang
-  - name: facebook
-  - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
+#  - name: devicon
+#  - name: django
+#  - name: docker
+#  - name: doctrine
+#  - name: dot-net
+#  - name: drupal
+#  - name: erlang
+#  - name: facebook
+#  - name: firefox
+#  - name: foundation
+#  - name: gatling
+#  - name: gimp
   - name: git
   - name: github
   - name: gitlab
-  - name: go
-  - name: google
-  - name: gradle
-  - name: grunt
-  - name: gulp
-  - name: heroku
+#  - name: go
+#  - name: google
+#  - name: gradle
+#  - name: grunt
+#  - name: gulp
+#  - name: heroku
   - name: html5
-  - name: ie10
-  - name: illustrator
-  - name: inkscape
-  - name: itellij
+#  - name: ie10
+#  - name: illustrator
+#  - name: inkscape
+#  - name: itellij
   - name: java
-  - name: jasmine
+#  - name: jasmine
   - name: javascript
-  - name: laravel
-  - name: less
+#  - name: laravel
+#  - name: less
   - name: linux
-  - name: meteor
-  - name: mocha
-  - name: mongodb
-  - name: moodle
+#  - name: meteor
+#  - name: mocha
+#  - name: mongodb
+#  - name: moodle
   - name: mysql
-  - name: nginx
-  - name: nodejs
-  - name: nodewebkit
-  - name: oracle
-  - name: photoshop
+#  - name: nginx
+#  - name: nodejs
+#  - name: nodewebkit
+#  - name: oracle
+#  - name: photoshop
   - name: php
   - name: phpstorm
-  - name: protractor
-  - name: postgresql
+#  - name: protractor
+#  - name: postgresql
   - name: python
-  - name: pycharm
-  - name: rails
-  - name: react
+#  - name: pycharm
+#  - name: rails
+#  - name: react
   - name: redhat
-  - name: redis
-  - name: ruby
-  - name: rubymine
-  - name: safari
-  - name: sass
-  - name: sequelize
-  - name: slack
-  - name: sourcetree
+#  - name: redis
+#  - name: ruby
+#  - name: rubymine
+#  - name: safari
+#  - name: sass
+#  - name: sequelize
+#  - name: slack
+#  - name: sourcetree
   - name: ssh
   - name: swift
-  - name: symfony
-  - name: tomcat
-  - name: travis
+#  - name: symfony
+#  - name: tomcat
+#  - name: travis
   - name: trello
-  - name: twitter
-  - name: typescript
+#  - name: twitter
+#  - name: typescript
   - name: ubuntu
   - name: vim
-  - name: visualstudio
-  - name: vuejs
-  - name: webpack
-  - name: webstorm
-  - name: windows8
-  - name: wordpress
-  - name: yii
-  - name: zend
+#  - name: visualstudio
+#  - name: vuejs
+#  - name: webpack
+#  - name: webstorm
+#  - name: windows8
+#  - name: wordpress
+#  - name: yii
+#  - name: zend
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: Github
+#project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+#github: https://github.com/jameshamann/jekyll-material-theme
+#medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
-url: http://localhost:4000/ #the url of your site
+#url: http://localhost:4000/ #the url of your site
 
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
