@@ -6,7 +6,7 @@ img: human_zoo_logo.png
 alt: image-alt
 project-date: December 2018
 client: Logan Kerr
-category: Web Development
+category: IOS Development
 description: Human Zoo is an IOS game about abducting and collecting humans
 github: Human-Zoo
 ---
