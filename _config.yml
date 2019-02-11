@@ -2,7 +2,7 @@
 title: Logan Kerr
 email: KerrSLogan@gmail.com
 url: https://logankerr.com
-description: ""
+description: "Portfolio site for the awesome software engineer - Logan Kerr"
 keywords: "your keywords, separated by commas"
 skills: "Software Engineer"
 meta_author: Kerr Logan
@@ -42,14 +42,14 @@ social:
   - title: linkedin
     url: http://linkedin.com/in/kerrlogan
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/logankerr
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Merrick, NY 11566
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'KerrSLogan@gmail.com'
 
 # Build settings
 markdown: kramdown
