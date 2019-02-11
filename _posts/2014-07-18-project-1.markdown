@@ -7,6 +7,6 @@ alt: image-alt
 project-date: December 2017
 client: Logan Kerr
 category: Web Development
-description: TeamLink is a machine learning backed social media web-aplication for students to team up. View this project on GitHub <a href="https://github.com/LoganKerr/TeamLink">Here</a>
-
+description: TeamLink is a machine learning backed social media web-aplication for students to team up
+github: TeamLink
 ---

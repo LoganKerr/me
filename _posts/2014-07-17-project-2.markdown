@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2018
 client: Epitaphis
 category: Web Development
-description: Epitaphis is a social media web-application for sharing life goals with friends! View this project on GitHub <a href="https://github.com/LoganKerr/Epitaphis" >Here</a>
-
+description: Epitaphis is a social media web-application for sharing life goals with friends
+github: Epitaphis
 ---
